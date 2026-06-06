@@ -18,7 +18,7 @@ An AI-powered assistant integrated into IRCTC.
 ### User Examples
 
 User:
-"Will my WL 23 ticket get confirmed?"
+"Will my WL 23 ticket get confirmed...?"
 
 AI:
 "Based on historical trends, confirmation chances are approximately medium. Check again closer to departure."

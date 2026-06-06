@@ -1,4 +1,4 @@
-# IRCTC Feature Specifications — Part B
+# IRCTC Feature Specifications — Part B...
 
 ## Feature 1: Tatkal Smart Queue System
 
